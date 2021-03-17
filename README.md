@@ -33,6 +33,7 @@ does not rely on words to tell the story
 constantly teaches the player something new
 different levels of challenge
 creates emotion
+
 the use of mechanics and puzzles to traverse. 
 
 accessibility was a huge thing i tried to put my time into to give any player the best experience. i wanted the game to control through only the keyboard for someone who may have limited mobility as well as implementing a controls for the same reason as well for a player who prefers to use controller. I tried to find the best way to do this. I found that momodora reverie under the moonlight has amazing controls perfect for how i want them using QWEASD for abilities and Arrow Keys for movement. it sounds like it'd be hard to learn but once you get used to it, its amazing!
