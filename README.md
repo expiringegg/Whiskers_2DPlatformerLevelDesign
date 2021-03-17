@@ -27,5 +27,11 @@ Deadline is 19th March 2021.
 during the first bit of research i focused hard on how to get engaging level design to get the player immersed in my game.
 how to develop engaging level designs 
 the use of mechanics and puzzles to traverse. 
-accessibility 
+
+accessibility was a huge thing i tried to put my time into to give any player the best experience. i wanted the game to control through only the keyboard for someone who may have limited mobility as well as implementing a controls for the same reason as well for a player who prefers to use controller.
+
+**Game Screenshots**
+
+![1](https://user-images.githubusercontent.com/80798877/111401914-235ce500-86c2-11eb-9912-2f2c44bc7356.PNG)
+
 
