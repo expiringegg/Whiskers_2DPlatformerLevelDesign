@@ -31,7 +31,8 @@ The level should be fun to navigate through and this can be done through giving 
 
 I explored ways to motivate the player through my gameplay. Through exinitic, intrinsic and narrative methods. My extrinsic way is giving the player points from killing enemies and chests around every main area to give them reason to explore further.
 My narrative method is through the player playing my game to get that end of saving their cat. My story does not rely on words to tell the story, Letting the player find out for themselves what is happening and what is going to happen and not explicitly telling them is what makes a good design too as I found in my research. 
-The game should have use of mechanics to progress. 
+
+The game use of mechanics to progress, was a big thing to look at too. The game should put obstacles that block the players path. My game has a wide range from enemies to rocks. Without certain ability the obstacle cannot be destroyed. 
 
 Accessibility was a huge thing I tried to explore and put my time into, to give any player the best experience. I wanted the game to control through only the keyboard for someone who may have limited mobility as well as implementing a controller for the same reason as well for a player who prefers to use controller. I tried to find the best way to do this. I found that Momodora: Reverie Under the Moonlight has amazing controls perfect for how I want them using QWEASD for abilities and Arrow Keys for movement. it sounds like it would be hard to learn but once you get used to it, it is amazing!
 
@@ -41,4 +42,3 @@ Accessibility was a huge thing I tried to explore and put my time into, to give 
 ![1](https://user-images.githubusercontent.com/80798877/111401914-235ce500-86c2-11eb-9912-2f2c44bc7356.PNG)
 ![2](https://user-images.githubusercontent.com/80798877/111403727-679db480-86c5-11eb-801d-d870b630c67f.PNG)
 ![3](https://user-images.githubusercontent.com/80798877/111403729-68364b00-86c5-11eb-90a7-188c7e489ea5.PNG)
-![4](https://user-images.githubusercontent.com/80798877/111403730-68364b00-86c5-11eb-8328-44ea1d1c3fbf.PNG)
